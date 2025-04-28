@@ -1,4 +1,5 @@
 # Attrition Prediction Streamlit Project
+# https://github.com/coderacheal/Attrition-Insight.git
 
 This project aims to predict employee attrition using machine learning models and provides a Streamlit interface for users to interact with the model.
 
